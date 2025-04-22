@@ -66,4 +66,4 @@
 
 ---
 
-<h3 align="center">Estoy emocionado de conectar contigo y colaborar en nuevas ideas innovadoras. ¡Hablemos y hagamos realidad tus proyectos! 🚀</h3>
+<h3 align="center">Estoy emocionado de conectar contigo y colaborar en nuevas ideas innovadoras.<br> ¡Hablemos y hagamos realidad tus proyectos! 🚀</h3>
