@@ -10,7 +10,7 @@
   <a href="https://www.elcompi.dev" target="_blank">
     <img src="https://img.shields.io/badge/-Portafolio-794FF1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portafolio">
   </a>
-  <a href="mailto:jdanielbernald@gmail.com" target="_blank">
+  <a href="mailto:elcompidev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-794FF1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
@@ -61,7 +61,7 @@
   <a href="https://www.elcompi.dev" target="_blank">
     <img src="https://img.shields.io/badge/-Portafolio-794FF1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portafolio">
   </a>
-  <a href="mailto:jdanielbernald@gmail.com" target="_blank">
+  <a href="mailto:elcompidev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-794FF1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
