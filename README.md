@@ -42,20 +42,12 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=elcompidev&layout=compact&theme=radical&hide_border=true&bg_color=30,794FF1,0A0A2A&title_color=fff&text_color=fff&icon_color=fff)
-![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=elcompidev&theme=radical&hide_border=true&background=30,794FF1,0A0A2A&stroke=794FF1&ring=794FF1&fire=794FF1&currStreakNum=fff&sideNums=fff&currStreakLabel=fff&sideLabels=fff&dates=fff)
-
-</div>
-
-<div align="center">
 
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elcompidev&layout=compact&theme=radical&hide_border=true&bg_color=30,794FF1,0A0A2A&title_color=fff&text_color=fff&icon_color=fff" alt="Lenguajes más usados" />
 
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=elcompidev&theme=radical&hide_border=true&background=30,794FF1,0A0A2A&stroke=794FF1&ring=794FF1&fire=794FF1&currStreakNum=fff&sideNums=fff&currStreakLabel=fff&sideLabels=fff&dates=fff" alt="Racha de contribuciones" />
 
 </div>
-
 
 ---
 
